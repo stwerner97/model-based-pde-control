@@ -1,0 +1,3 @@
+from pdecontrol.architectures.autoreg import KSAutoRegConvolutionalLSTM, KSAutoRegFullyConnectedLSTM
+from pdecontrol.architectures.delay import KSDelayCNNSurrogateFactory
+from pdecontrol.architectures.latent import KSLatentLSTM, KSLatentConvolutionalLSTM
