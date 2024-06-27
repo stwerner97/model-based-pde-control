@@ -5,7 +5,7 @@ This repository holds the implementation of our model-based deep reinforcement l
 
 ## Controlling the Kuramoto Sivashinsky Equation
 
-Our work aims to minimize the dissipation and power consumption of a system whose dynamics are governed by the Kuramoto-Sivashinsky equation.
+Our work aims to minimize the dissipation and power consumption of a system whose dynamics are governed by the Kuramoto-Sivashinsky equation. An example of the system and its rewards where a controller applies random actions to it is illustrated below.
 
 ![ks-equation](assets/kuramoto-sivashinsky.gif)
 
