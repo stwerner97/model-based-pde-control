@@ -1,5 +1,7 @@
 # Numerical Evidence for Sample Efficiency of Model-Based over Model-Free Reinforcement Learning Control of Partial Differential Equations [ECC'24]
 
+[![Python application](https://github.com/stwerner97/pdecontrol/actions/workflows/python-app.yml/badge.svg)](https://github.com/stwerner97/pdecontrol/actions/workflows/python-app.yml)
+
 This repository holds the implementation of our model-based deep reinforcement learning algorithm for the control of partial differential equations (specifically the Kuramoto-Sivashinsky & Burger equations). This work has been presented at the European Control Conference
 
 ## Controlling the Kuramoto Sivashinsky Equation
