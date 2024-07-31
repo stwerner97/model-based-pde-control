@@ -44,3 +44,19 @@ python pdecontrol/mbrl/script.py
     --rollout_length_schedule "{\"scheduler\": \"LinearScheduler\", \"steptype\": \"iteration\", \"start\": 0, \"stop\": 200, \"vmin\": 3, \"vmax\": 7}" --policy_train_steps_per_sample 10
     --surrogate_train_freq 500
 ````
+
+
+# Citation
+
+If you our code for ``model-based-pde-control`` in your work, please cite our paper:
+
+`````
+@inproceedings{werner2024numerical,
+  title={Numerical Evidence for Sample Efficiency of Model-Based Over Model-Free Reinforcement Learning Control of Partial Differential Equations},
+  author={Werner, Stefan and Peitz, Sebastian},
+  booktitle={2024 European Control Conference (ECC)},
+  pages={2965--2971},
+  year={2024},
+  organization={IEEE}
+}
+````
